@@ -35,5 +35,5 @@ Comporte-se como se fosse um escritor de artigos tech de cibersegurança e escre
 - faça call to action para minhas redes sociais
 - coloque 3 hashtags que façam sentido
 ```
-Ilustrações de capa: gerada pela lexica.art
-Conteúdo gerado por: ChatGPT e revisões humanas
+##link para o Artigo Completo
+https://www.dio.me/articles/seguranca-em-foco-a-importancia-de-senhas-fortes-em-um-mundo-digital
