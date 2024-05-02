@@ -8,7 +8,7 @@ Desafio de Projeto da DIO envolvendo o uso de ferramentas de IA para auxiliar a 
 - [x] Imagem de capa chamativa
 - [x] blocos do artigo
 - [x] Revisão humana
-- [ ] Postar o artigo com um call to action
+- [x] Postar o artigo com um call to action
 
 ## Assunto:
 Senhas Fortes
@@ -35,5 +35,5 @@ Comporte-se como se fosse um escritor de artigos tech de cibersegurança e escre
 - faça call to action para minhas redes sociais
 - coloque 3 hashtags que façam sentido
 ```
-##link para o Artigo Completo
+## link para o Artigo Completo
 https://www.dio.me/articles/seguranca-em-foco-a-importancia-de-senhas-fortes-em-um-mundo-digital
